@@ -1,0 +1,6 @@
+auth:
+  username: you@email.com
+  password: password
+acl:
+  host: http://192.168.99.100
+  port: 81
