@@ -11,9 +11,12 @@ from source:
 go run *.go
 ```
 
-or, compiled:
+or, compile:
 
 ```
 GOOS={{your os}} go build .
 ./resalloc
 ```
+
+or, use the build provided, compiled for linux:
+`./resalloc`
